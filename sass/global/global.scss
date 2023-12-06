@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.light-mode {
+    // --bg-1: 255, 255, 255;//#ffffff
+    // --bg-2: 252, 253, 253;//#fcfdfd
+    // --bg-3: 249, 249, 250;//#f9f9fa
+    // --bg-4: 243, 245, 245;//#f3f5f5
+    // --bg-5: 237, 239, 240;//#edeff0
+    // --bg-6: 229, 232, 234;//#e5e8ea
+    // --bg-7: 221, 225, 227;//#dde1e3
+    // --bg-8: 255,255,255;  //#ffffff
+    // --text-color: 0, 0, 0;//#000000
+    // --icon-color: 24, 144, 255;//#1890FF
+    // --main: 19, 194, 194;//#13c2c2
+    // --main-txt: 255, 255 ,255;//#ffffff
+    // --main-hover: 54, 207, 201;//#36cfc9
+    // --match-bg: url("./assets/images/matches_bg.png");
+    // .st3 {
+    //     fill: #000000;
+    // }
+    // --league-bg: url("./assets/images/home_photo_light.jpg");
+
+    --main: 192 242 44; //#c0f22c
+    --text-1: 0 0 0; //#000000
+    --text-2: 242 242 242; //#f2f2f2
+    --bg-1: 255, 255, 255; //#ffffff
+    --bg-2: 1 43 58; //#fcfdfd
+    --bg-3: 226 227 253; //#e2e3e9
+}
